@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @federicobr001
+- 👋 Hi, I’m Federico!
 - 👀 I’m interested in Frontend programming.
-- 🌱 I’m currently learning REACT
-- 💞️ I’m looking to collaborate on Electrical Engineering Websites.
+- 🌱 I’m currently learning REACT and Redux.
 - 📫 How to reach me federicobarbagallo@gmail.com
 
 <!---
