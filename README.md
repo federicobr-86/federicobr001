@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Federico!
-- 👀 I’m interested in Frontend programming.
-- 🌱 I’m currently learning REACT and Redux.
+- 🏅 HTML, CSS, JavaScript ES6.
+- 🌱 I’m currently learning REACT and REDUX.
 - 📫 How to reach me federicobarbagallo@gmail.com
 
 <!---
