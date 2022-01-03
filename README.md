@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Federico!
 - 🏅 HTML, CSS, JavaScript ES6.
-- 🌱 I’m currently learning REACT and REDUX.
+- 🌱 I make awesome web apps using REACT and REDUX.
 - 📫 How to reach me federicobarbagallo@gmail.com
 
 <!---
